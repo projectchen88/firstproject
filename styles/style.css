@@ -1,6 +1,7 @@
 h1,h2, h5 {
     font-family: 'Abril Fatface', cursive;
 }
+/* NAVBAR - Styling for navbar-brand and nav-link*/
 .navbar-brand {
     font-family: 'Abril Fatface', cursive;
     font-size: 1.3rem;    
@@ -9,6 +10,8 @@ h1,h2, h5 {
     font-family: 'Abril Fatface', cursive;
     font-size: 1.1rem;
 }
+
+/* BODY - SET FIXED background image */
 body {
     height : 200px;
     height: auto;
