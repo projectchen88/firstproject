@@ -11,7 +11,7 @@ h1,h2, h5 {
     font-size: 1.1rem;
 }
 
-/* BODY - SET FIXED background image */
+/* BODY - Set fixed background image */
 body {
     height : 200px;
     height: auto;
@@ -27,6 +27,7 @@ body {
     width : auto;
 }
 
+/*animation for bouncing logos of skills logo*/
 .logo1 {
     height : 8rem;
     width : auto;
@@ -99,6 +100,7 @@ body {
   100% { left:0px; top:0px;}
 }
 
+/*CONTACT - background image*/
 #contact {
     /*height : 200px;*/
     height: auto;
@@ -106,4 +108,23 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+
+/* Social Media */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 70px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
 }
