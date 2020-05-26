@@ -98,3 +98,12 @@ body {
   85%  { left:0px; top:-12px;}
   100% { left:0px; top:0px;}
 }
+
+#contact {
+    /*height : 200px;*/
+    height: auto;
+    background-image: url('../images/bay.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
